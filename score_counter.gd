@@ -1,5 +1,9 @@
 extends HBoxContainer
 
+# i am a minor change
+
+var cellSize = Vector2(8,8)
+var digitCoords
 
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
