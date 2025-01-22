@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://cf54ubyud2yuk"]
+
+[node name="ScoreCounter" type="HBoxContainer"]
+anchors_preset = 10
+anchor_right = 1.0
+grow_horizontal = 2
+alignment = 2
